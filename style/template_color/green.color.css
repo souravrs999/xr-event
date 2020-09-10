@@ -1,0 +1,70 @@
+
+.green .home .flex-prev:hover,
+.green .home .flex-next:hover,
+.green.white .button.black:hover,
+.green.white .services-block.active em.border, 
+.green.white .services-block:hover em.border,
+.green input[type="submit"]:hover,
+.green .next-services-block:hover,
+.green .prev-services-block:hover,
+.green footer.footer a.arrow-up:hover,
+.green .images-wrapper,
+.green .price-block.best .price-wrapper,
+.green .price-block:hover .price-wrapper,
+.green .price-block:hover .button,
+.green div.pp_default .pp_close,
+.green .services-line .line span,
+.green .services-block.active em.border,
+.green .services-block:hover em.border,
+.green .button.black:hover,
+.green .button:hover{
+	background: #7ab014;
+}
+.green.white .skills-block:hover .skills-wrapper,
+.green.white .skills-block:hover em,
+.green .contacts-details em,
+.green .portfolio-navi a.active,
+.green .services-block.active .glyph,
+.green .services-block:hover .glyph,
+.green .member-block-wrapper:hover .member-block-footer a:hover,
+.green .skills-block:hover em,
+.green a.active,
+.green a:hover{
+	color: #7ab014;
+}
+.green footer.footer a.arrow-up:hover,
+.green .next-services-block:hover,
+.green .prev-services-block:hover,
+.green .home .flex-prev:hover,
+.green .home .flex-next:hover,
+.green.white .button.black:hover,
+.green .button.black:hover,
+.green input[type="submit"],
+.green .button{
+	border-color: #7ab014;
+}
+.green .member-block-wrapper:hover{
+	border-top-color: #7ab014;
+}
+.green .skills-block:hover .skills-wrapper,
+.green textarea:focus,
+.green input[type="text"]:focus{
+	border-bottom-color: #7ab014;	
+}
+.green .flex-control-paging li a.flex-active {
+    box-shadow: 0 0 0 9px #7ab014 inset;
+}
+
+.green .services-block.active .services-block-wrapper:before,
+.green .services-block:hover .services-block-wrapper:before{
+	box-shadow: 0 0 0 3px #7ab014 inset;
+}
+.green .price-block:hover{
+	box-shadow: 0 0 0 2px #7ab014 inset;
+}
+.green .portfolio-navi a:hover,
+.green .next-services-block:hover,
+.green .prev-services-block:hover,
+.green .button:hover{
+	color: #fff;
+}

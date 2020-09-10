@@ -1,0 +1,70 @@
+    
+.purple .home .flex-prev:hover,
+.purple .home .flex-next:hover,
+.purple.white .button.black:hover,
+.purple.white .services-block.active em.border, 
+.purple.white .services-block:hover em.border,
+.purple input[type="submit"]:hover,
+.purple .next-services-block:hover,
+.purple .prev-services-block:hover,
+.purple footer.footer a.arrow-up:hover,
+.purple .images-wrapper,
+.purple .price-block.best .price-wrapper,
+.purple .price-block:hover .price-wrapper,
+.purple .price-block:hover .button,
+.purple div.pp_default .pp_close,
+.purple .services-line .line span,
+.purple .services-block.active em.border,
+.purple .services-block:hover em.border,
+.purple .button.black:hover,
+.purple .button:hover{
+	background: #7c3bbd;
+}
+.purple.white .skills-block:hover .skills-wrapper,
+.purple.white .skills-block:hover em,
+.purple .contacts-details em,
+.purple .portfolio-navi a.active,
+.purple .services-block.active .glyph,
+.purple .services-block:hover .glyph,
+.purple .member-block-wrapper:hover .member-block-footer a:hover,
+.purple .skills-block:hover em,
+.purple a.active,
+.purple a:hover{
+	color: #7c3bbd;
+}
+.purple footer.footer a.arrow-up:hover,
+.purple .next-services-block:hover,
+.purple .prev-services-block:hover,
+.purple .home .flex-prev:hover,
+.purple .home .flex-next:hover,
+.purple.white .button.black:hover,
+.purple .button.black:hover,
+.purple input[type="submit"],
+.purple .button{
+	border-color: #7c3bbd;
+}
+.purple .member-block-wrapper:hover{
+	border-top-color: #7c3bbd;
+}
+.purple .skills-block:hover .skills-wrapper,
+.purple textarea:focus,
+.purple input[type="text"]:focus{
+	border-bottom-color: #7c3bbd;	
+}
+.purple .flex-control-paging li a.flex-active {
+    box-shadow: 0 0 0 9px #7c3bbd inset;
+}
+
+.purple .services-block.active .services-block-wrapper:before,
+.purple .services-block:hover .services-block-wrapper:before{
+	box-shadow: 0 0 0 3px #7c3bbd inset;
+}
+.purple .price-block:hover{
+	box-shadow: 0 0 0 2px #7c3bbd inset;
+}
+.purple .portfolio-navi a:hover,
+.purple .next-services-block:hover,
+.purple .prev-services-block:hover,
+.purple .button:hover{
+	color: #fff;
+}

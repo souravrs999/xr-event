@@ -1,0 +1,70 @@
+   
+.pink .home .flex-prev:hover,
+.pink .home .flex-next:hover,
+.pink.white .button.black:hover,
+.pink.white .services-block.active em.border, 
+.pink.white .services-block:hover em.border,
+.pink input[type="submit"]:hover,
+.pink .next-services-block:hover,
+.pink .prev-services-block:hover,
+.pink footer.footer a.arrow-up:hover,
+.pink .images-wrapper,
+.pink .price-block.best .price-wrapper,
+.pink .price-block:hover .price-wrapper,
+.pink .price-block:hover .button,
+.pink div.pp_default .pp_close,
+.pink .services-line .line span,
+.pink .services-block.active em.border,
+.pink .services-block:hover em.border,
+.pink .button.black:hover,
+.pink .button:hover{
+	background: #bd2882;
+}
+.pink.white .skills-block:hover .skills-wrapper,
+.pink.white .skills-block:hover em,
+.pink .contacts-details em,
+.pink .portfolio-navi a.active,
+.pink .services-block.active .glyph,
+.pink .services-block:hover .glyph,
+.pink .member-block-wrapper:hover .member-block-footer a:hover,
+.pink .skills-block:hover em,
+.pink a.active,
+.pink a:hover{
+	color: #bd2882;
+}
+.pink footer.footer a.arrow-up:hover,
+.pink .next-services-block:hover,
+.pink .prev-services-block:hover,
+.pink .home .flex-prev:hover,
+.pink .home .flex-next:hover,
+.pink.white .button.black:hover,
+.pink .button.black:hover,
+.pink input[type="submit"],
+.pink .button{
+	border-color: #bd2882;
+}
+.pink .member-block-wrapper:hover{
+	border-top-color: #bd2882;
+}
+.pink .skills-block:hover .skills-wrapper,
+.pink textarea:focus,
+.pink input[type="text"]:focus{
+	border-bottom-color: #bd2882;	
+}
+.pink .flex-control-paging li a.flex-active {
+    box-shadow: 0 0 0 9px #bd2882 inset;
+}
+
+.pink .services-block.active .services-block-wrapper:before,
+.pink .services-block:hover .services-block-wrapper:before{
+	box-shadow: 0 0 0 3px #bd2882 inset;
+}
+.pink .price-block:hover{
+	box-shadow: 0 0 0 2px #bd2882 inset;
+}
+.pink .portfolio-navi a:hover,
+.pink .next-services-block:hover,
+.pink .prev-services-block:hover,
+.pink .button:hover{
+	color: #fff;
+}

@@ -1,0 +1,114 @@
+
+.white .services-block-wrapper:before,
+body.white {
+	background: #e1e1e1;
+}
+.white .price-wrapper{
+	background: #000;
+}
+.white .skills-block .skills-wrapper{
+	border-bottom-color: #d4d4d4;
+}
+.white footer.footer,
+.white textarea,
+.white input[type="text"],
+.white .price-block:hover,
+.white .member-block-wrapper,
+.white .skills-block:hover .skills-wrapper{
+	background: #eaeaea;
+}
+.white textarea,
+.white input[type="text"]{
+	border-bottom-color: #eaeaea;
+}
+.white footer.footer a.glyph:hover, 
+.white input[type="submit"],
+.white textarea:focus, 
+.white input[type="text"]:focus,
+.white .price-block .price-title,
+.white .slide-details .name,
+.white .services-line div:first-child,
+.white .services-block.active a, 
+.white .services-block:hover a,
+.white .member-block-wrapper:hover .name,
+.white .button,
+.white .skills-block:hover .skills-name {
+    color: #000;
+}
+.white p.mini{
+	color: #999;
+}
+.white .about p,
+.white .services p,
+.white .slide-details .position,
+.white .member-block-wrapper:hover .member-block-footer a,
+.white .member-block-wrapper:hover .position,
+.white .skills-block em,
+.white .member-block-wrapper .name,
+.white .skills-block .skills-name{
+	color: #666;
+}
+.white .title .title-bg{
+	color: #d5d5d5;
+}
+.white .member-block-wrapper .position{
+	color: #afafaf;
+}
+.white .member-block-footer{
+	border-top-color: #e1e1e1;
+}
+.white .price-block,
+.white .services-block-wrapper:before{
+	box-shadow: 0 0 0 1px #d4d4d4 inset;
+}
+.white footer.footer span,
+.white footer.footer a.glyph,
+.white .member-block-footer a{
+	color: #ccc;
+}
+.white .portfolio-navi a:hover{
+	color: #333 !important;
+}
+.white .services-line .line,
+.white .services-block em.border{
+	background: #d4d4d4;
+}
+.white .price-block li:first-child{
+	border-top-color: #d4d4d4;
+}
+.white .price-block li{
+	border-bottom-color: #d4d4d4;
+}
+.white footer.footer a.arrow-up,
+.white .next-services-block, 
+.white .prev-services-block{
+	border-color: #d4d4d4;
+	color: #d4d4d4;
+}
+.white .portfolio-slider .slide:hover .slide-details{
+	background: rgba(225, 225, 225, 0.9);
+}
+.white input[type="submit"]:hover,
+.white .about .button:hover,
+.white .price-block:hover .button,
+.white .idea .button,
+.white .home .button,
+.white .slide-details .button{
+	color: #fff;
+}
+.white .title,
+.white .price-block:hover li strong, 
+.white .price-block:hover li, 
+.white .price-block:hover .price-title{
+	color: #333;
+}
+.white .button.black{
+	background: #e1e1e1;
+	border-color: #e1e1e1;
+}
+.white .contacts-details{
+	border-top-color: #d4d4d4;
+}
+.white div.pp_overlay{
+	background: #fff;
+}

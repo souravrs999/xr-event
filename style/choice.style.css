@@ -1,0 +1,199 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Lato';
+	color: #333;
+}
+a,
+a:hover,
+a:active,
+a:focus{
+	color: #fff;
+	text-decoration: none !important;
+}
+strong{
+    font-weight: 900;
+}
+p{
+    font-size: 22px;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 200px;
+}
+.wrapper .bg{
+    background: url(../images/theme-images/bg.jpg);
+    background-size: cover;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+}
+.wrapper .container {
+    position: relative;
+    z-index: 1;
+}
+.title {
+    color: #fff;
+    font-size: 70px;
+    line-height: 70px;
+    font-weight: 200;
+    text-align: center;
+    position: relative;
+    text-transform: uppercase;
+    margin-top: 90px;
+}
+.design-wrapper{
+	text-align: center;
+}
+    .design-wrapper a:last-child{
+        height: 48px;
+        line-height: 44px;
+        width: 100%;
+        border: 2px solid #a91632;
+        display: block;
+        margin-top: 30px;
+        text-transform: uppercase;
+        font-size: 12px;
+        font-weight: 900;
+        letter-spacing: 1px;
+
+        -moz-transition: all 0.3s linear;
+        -webkit-transition: all 0.3s linear;
+        -o-transition: all 0.3s linear;
+        -ms-transition: all 0.3s linear;
+        transition: all 0.3s linear;
+    }
+    .design-wrapper a:last-child:hover{
+        background: #a91632;
+    }
+    .design-wrapper img {
+        display: block;
+        width: 100%;
+    }
+    .design-wrapper div{
+        font-size: 18px;
+        line-height: 18px;
+        color: #fff;
+        margin-bottom: 30px;
+    }
+.logo-wrapper {
+    overflow: hidden;
+    text-align: center;
+    margin-top: 40px;
+}
+.logo {
+    line-height: 80px;
+    display: inline-block;
+}
+.image-wrapper {
+    color: #009DC0;
+    font-size: 34px;
+    line-height: 80px;
+    overflow: hidden;
+    position: relative;
+}
+.logo .image-wrapper {
+    margin: 0 17px 0 30px;
+}
+.logo-name {
+    color: #fff;
+    font-size: 40px;
+    margin-right: 12px;
+    position: relative;
+    text-transform: uppercase;
+    top: 3px;
+}
+.logo span {
+    color: #666;
+    display: table-cell;
+    font-size: 12px;
+    height: 80px;
+    line-height: 16px;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+.design-wrapper > div{
+    width: 20%;    
+}
+.design-wrapper > div div,
+.design-wrapper > div img{
+    position: relative;
+    top: 0;
+
+    -moz-transition: all 0.3s linear;
+    -webkit-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    -ms-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+}
+.design-wrapper > div.animate div,
+.design-wrapper > div.animate img{
+    top: -20px;
+}
+@media (max-width: 992px) {
+    .title{
+        font-size: 50px;
+    }
+}
+@media (max-width: 768px) {
+    .title{
+        font-size: 50px;
+    }
+    .design-wrapper > div{
+        float: left;
+        width: 33.33%;
+    }
+}
+@media (max-width: 640px){
+    .title {
+        font-size: 44px;
+        line-height: 44px;
+    }
+    p{
+        font-size: 20px;
+        margin-bottom: 100px;
+    }
+    .design-wrapper > div{
+        float: left;
+        width: 50%;
+    }
+}
+@media (max-width: 480px){
+    .title {
+        font-size: 34px;
+        line-height: 34px;
+    }
+    p{
+        font-size: 14px;
+    }
+}
+@media (max-width: 320px) {
+    .title {
+        font-size: 22px;
+        line-height: 22px;
+        margin-top: 50px;
+    }
+    p{
+        font-size: 10px;
+        margin-bottom: 50px;
+    }
+    .logo-name{
+        font-size: 30px;
+    }
+    .image-wrapper{
+        font-size: 26px;
+        line-height: 76px;
+    }
+    .design-wrapper img {
+        display: block;
+        height: auto;
+        margin: 0 auto;
+    }
+}

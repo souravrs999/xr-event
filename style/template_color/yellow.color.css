@@ -1,0 +1,70 @@
+       
+.yellow .home .flex-prev:hover,
+.yellow .home .flex-next:hover,
+.yellow.white .button.black:hover,
+.yellow.white .services-block.active em.border, 
+.yellow.white .services-block:hover em.border,
+.yellow input[type="submit"]:hover,
+.yellow .next-services-block:hover,
+.yellow .prev-services-block:hover,
+.yellow footer.footer a.arrow-up:hover,
+.yellow .images-wrapper,
+.yellow .price-block.best .price-wrapper,
+.yellow .price-block:hover .price-wrapper,
+.yellow .price-block:hover .button,
+.yellow div.pp_default .pp_close,
+.yellow .services-line .line span,
+.yellow .services-block.active em.border,
+.yellow .services-block:hover em.border,
+.yellow .button.black:hover,
+.yellow .button:hover{
+	background: #ff8a00;
+}
+.yellow.white .skills-block:hover .skills-wrapper,
+.yellow.white .skills-block:hover em,
+.yellow .contacts-details em,
+.yellow .portfolio-navi a.active,
+.yellow .services-block.active .glyph,
+.yellow .services-block:hover .glyph,
+.yellow .member-block-wrapper:hover .member-block-footer a:hover,
+.yellow .skills-block:hover em,
+.yellow a.active,
+.yellow a:hover{
+	color: #ff8a00;
+}
+.yellow footer.footer a.arrow-up:hover,
+.yellow .next-services-block:hover,
+.yellow .prev-services-block:hover,
+.yellow .home .flex-prev:hover,
+.yellow .home .flex-next:hover,
+.yellow.white .button.black:hover,
+.yellow .button.black:hover,
+.yellow input[type="submit"],
+.yellow .button{
+	border-color: #ff8a00;
+}
+.yellow .member-block-wrapper:hover{
+	border-top-color: #ff8a00;
+}
+.yellow .skills-block:hover .skills-wrapper,
+.yellow textarea:focus,
+.yellow input[type="text"]:focus{
+	border-bottom-color: #ff8a00;	
+}
+.yellow .flex-control-paging li a.flex-active {
+    box-shadow: 0 0 0 9px #ff8a00 inset;
+}
+
+.yellow .services-block.active .services-block-wrapper:before,
+.yellow .services-block:hover .services-block-wrapper:before{
+	box-shadow: 0 0 0 3px #ff8a00 inset;
+}
+.yellow .price-block:hover{
+	box-shadow: 0 0 0 2px #ff8a00 inset;
+}
+.yellow .portfolio-navi a:hover,
+.yellow .next-services-block:hover,
+.yellow .prev-services-block:hover,
+.yellow .button:hover{
+	color: #fff;
+}

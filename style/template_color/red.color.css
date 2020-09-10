@@ -1,0 +1,70 @@
+     
+.red .home .flex-prev:hover,
+.red .home .flex-next:hover,
+.red.white .button.black:hover,
+.red.white .services-block.active em.border, 
+.red.white .services-block:hover em.border,
+.red input[type="submit"]:hover,
+.red .next-services-block:hover,
+.red .prev-services-block:hover,
+.red footer.footer a.arrow-up:hover,
+.red .images-wrapper,
+.red .price-block.best .price-wrapper,
+.red .price-block:hover .price-wrapper,
+.red .price-block:hover .button,
+.red div.pp_default .pp_close,
+.red .services-line .line span,
+.red .services-block.active em.border,
+.red .services-block:hover em.border,
+.red .button.black:hover,
+.red .button:hover{
+	background: #a91632;
+}
+.red.white .skills-block:hover .skills-wrapper,
+.red.white .skills-block:hover em,
+.red .contacts-details em,
+.red .portfolio-navi a.active,
+.red .services-block.active .glyph,
+.red .services-block:hover .glyph,
+.red .member-block-wrapper:hover .member-block-footer a:hover,
+.red .skills-block:hover em,
+.red a.active,
+.red a:hover{
+	color: #a91632;
+}
+.red footer.footer a.arrow-up:hover,
+.red .next-services-block:hover,
+.red .prev-services-block:hover,
+.red .home .flex-prev:hover,
+.red .home .flex-next:hover,
+.red.white .button.black:hover,
+.red .button.black:hover,
+.red input[type="submit"],
+.red .button{
+	border-color: #a91632;
+}
+.red .member-block-wrapper:hover{
+	border-top-color: #a91632;
+}
+.red .skills-block:hover .skills-wrapper,
+.red textarea:focus,
+.red input[type="text"]:focus{
+	border-bottom-color: #a91632;	
+}
+.red .flex-control-paging li a.flex-active {
+    box-shadow: 0 0 0 9px #a91632 inset;
+}
+
+.red .services-block.active .services-block-wrapper:before,
+.red .services-block:hover .services-block-wrapper:before{
+	box-shadow: 0 0 0 3px #a91632 inset;
+}
+.red .price-block:hover{
+	box-shadow: 0 0 0 2px #a91632 inset;
+}
+.red .portfolio-navi a:hover,
+.red .next-services-block:hover,
+.red .prev-services-block:hover,
+.red .button:hover{
+	color: #fff;
+}

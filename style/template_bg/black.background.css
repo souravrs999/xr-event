@@ -1,0 +1,72 @@
+
+.black .contact input[type="text"],
+.black .contact textarea,
+.black .works-details .icon_close,
+body.black{
+	background-color: #212121;
+}
+
+body.black .price-block.active a{
+	background-color: #fff;
+	color: #333;
+}
+.black .author .name,
+.black .mini-post > a,
+.black #portfolio .image-wrapper .button.mini,
+.black .slides .name,
+.black .price-block span,
+.black .price-block a,
+.black .skill-block span,
+body.black{
+	color: #fff;
+}
+.black .works-details-block .soc-icons a,
+.black .work-details,
+.black p{
+	color: #999;
+}
+.black .price-block .wrapper{
+	background: #181818;
+	border-color: #181818;
+}
+.black .blog,
+.black .price-block p{
+	background: #1c1c1c;
+}
+.black .works-details .title.left,
+.black #portfolio .flex-direction-nav a:before, 
+.black #about .flex-direction-nav a:before,
+.black .soc-icons > strong,
+.black .works-details .button,
+.black .work-details > strong,
+.black .client-twit p{
+	color: #fff;
+}
+.black .contact input[type="text"],
+.black .contact textarea,
+.black .soc-icons a,
+.black .works-details .icon_close,
+.black .works-details .container{
+	border-color: #333;
+	color: #333;
+}
+.black .contact input[type="text"],
+.black .contact textarea{
+	color: #666;
+}
+.black .price-block.active .wrapper:before{
+	background: url("../images/icons/corner2.png");
+}
+.black .price-block.active .wrapper{
+	background: #050505;
+}
+.black .price-block.active p{
+	background: #151515;
+}
+.black #blog .post-stat{
+	border-top-color: #222;
+}
+.black #blog .glyph,
+.black .post-stat > a{
+	color: #555;
+}

@@ -1,0 +1,70 @@
+      
+.turquoise .home .flex-prev:hover,
+.turquoise .home .flex-next:hover,
+.turquoise.white .button.black:hover,
+.turquoise.white .services-block.active em.border, 
+.turquoise.white .services-block:hover em.border,
+.turquoise input[type="submit"]:hover,
+.turquoise .next-services-block:hover,
+.turquoise .prev-services-block:hover,
+.turquoise footer.footer a.arrow-up:hover,
+.turquoise .images-wrapper,
+.turquoise .price-block.best .price-wrapper,
+.turquoise .price-block:hover .price-wrapper,
+.turquoise .price-block:hover .button,
+.turquoise div.pp_default .pp_close,
+.turquoise .services-line .line span,
+.turquoise .services-block.active em.border,
+.turquoise .services-block:hover em.border,
+.turquoise .button.black:hover,
+.turquoise .button:hover{
+	background: #009dc0;
+}
+.turquoise.white .skills-block:hover .skills-wrapper,
+.turquoise.white .skills-block:hover em,
+.turquoise .contacts-details em,
+.turquoise .portfolio-navi a.active,
+.turquoise .services-block.active .glyph,
+.turquoise .services-block:hover .glyph,
+.turquoise .member-block-wrapper:hover .member-block-footer a:hover,
+.turquoise .skills-block:hover em,
+.turquoise a.active,
+.turquoise a:hover{
+	color: #009dc0;
+}
+.turquoise footer.footer a.arrow-up:hover,
+.turquoise .next-services-block:hover,
+.turquoise .prev-services-block:hover,
+.turquoise .home .flex-prev:hover,
+.turquoise .home .flex-next:hover,
+.turquoise.white .button.black:hover,
+.turquoise .button.black:hover,
+.turquoise input[type="submit"],
+.turquoise .button{
+	border-color: #009dc0;
+}
+.turquoise .member-block-wrapper:hover{
+	border-top-color: #009dc0;
+}
+.turquoise .skills-block:hover .skills-wrapper,
+.turquoise textarea:focus,
+.turquoise input[type="text"]:focus{
+	border-bottom-color: #009dc0;	
+}
+.turquoise .flex-control-paging li a.flex-active {
+    box-shadow: 0 0 0 9px #009dc0 inset;
+}
+
+.turquoise .services-block.active .services-block-wrapper:before,
+.turquoise .services-block:hover .services-block-wrapper:before{
+	box-shadow: 0 0 0 3px #009dc0 inset;
+}
+.turquoise .price-block:hover{
+	box-shadow: 0 0 0 2px #009dc0 inset;
+}
+.turquoise .portfolio-navi a:hover,
+.turquoise .next-services-block:hover,
+.turquoise .prev-services-block:hover,
+.turquoise .button:hover{
+	color: #fff;
+}

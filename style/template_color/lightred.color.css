@@ -1,0 +1,70 @@
+  
+.lightred .home .flex-prev:hover,
+.lightred .home .flex-next:hover,
+.lightred.white .button.black:hover,
+.lightred.white .services-block.active em.border, 
+.lightred.white .services-block:hover em.border,
+.lightred input[type="submit"]:hover,
+.lightred .next-services-block:hover,
+.lightred .prev-services-block:hover,
+.lightred footer.footer a.arrow-up:hover,
+.lightred .images-wrapper,
+.lightred .price-block.best .price-wrapper,
+.lightred .price-block:hover .price-wrapper,
+.lightred .price-block:hover .button,
+.lightred div.pp_default .pp_close,
+.lightred .services-line .line span,
+.lightred .services-block.active em.border,
+.lightred .services-block:hover em.border,
+.lightred .button.black:hover,
+.lightred .button:hover{
+	background: #fd7647;
+}
+.lightred.white .skills-block:hover .skills-wrapper,
+.lightred.white .skills-block:hover em,
+.lightred .contacts-details em,
+.lightred .portfolio-navi a.active,
+.lightred .services-block.active .glyph,
+.lightred .services-block:hover .glyph,
+.lightred .member-block-wrapper:hover .member-block-footer a:hover,
+.lightred .skills-block:hover em,
+.lightred a.active,
+.lightred a:hover{
+	color: #fd7647;
+}
+.lightred footer.footer a.arrow-up:hover,
+.lightred .next-services-block:hover,
+.lightred .prev-services-block:hover,
+.lightred .home .flex-prev:hover,
+.lightred .home .flex-next:hover,
+.lightred.white .button.black:hover,
+.lightred .button.black:hover,
+.lightred input[type="submit"],
+.lightred .button{
+	border-color: #fd7647;
+}
+.lightred .member-block-wrapper:hover{
+	border-top-color: #fd7647;
+}
+.lightred .skills-block:hover .skills-wrapper,
+.lightred textarea:focus,
+.lightred input[type="text"]:focus{
+	border-bottom-color: #fd7647;	
+}
+.lightred .flex-control-paging li a.flex-active {
+    box-shadow: 0 0 0 9px #fd7647 inset;
+}
+
+.lightred .services-block.active .services-block-wrapper:before,
+.lightred .services-block:hover .services-block-wrapper:before{
+	box-shadow: 0 0 0 3px #fd7647 inset;
+}
+.lightred .price-block:hover{
+	box-shadow: 0 0 0 2px #fd7647 inset;
+}
+.lightred .portfolio-navi a:hover,
+.lightred .next-services-block:hover,
+.lightred .prev-services-block:hover,
+.lightred .button:hover{
+	color: #fff;
+}

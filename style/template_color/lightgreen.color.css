@@ -1,0 +1,70 @@
+ 
+.lightgreen .home .flex-prev:hover,
+.lightgreen .home .flex-next:hover,
+.lightgreen.white .button.black:hover,
+.lightgreen.white .services-block.active em.border, 
+.lightgreen.white .services-block:hover em.border,
+.lightgreen input[type="submit"]:hover,
+.lightgreen .next-services-block:hover,
+.lightgreen .prev-services-block:hover,
+.lightgreen footer.footer a.arrow-up:hover,
+.lightgreen .images-wrapper,
+.lightgreen .price-block.best .price-wrapper,
+.lightgreen .price-block:hover .price-wrapper,
+.lightgreen .price-block:hover .button,
+.lightgreen div.pp_default .pp_close,
+.lightgreen .services-line .line span,
+.lightgreen .services-block.active em.border,
+.lightgreen .services-block:hover em.border,
+.lightgreen .button.black:hover,
+.lightgreen .button:hover{
+	background: #44b37e;
+}
+.lightgreen.white .skills-block:hover .skills-wrapper,
+.lightgreen.white .skills-block:hover em,
+.lightgreen .contacts-details em,
+.lightgreen .portfolio-navi a.active,
+.lightgreen .services-block.active .glyph,
+.lightgreen .services-block:hover .glyph,
+.lightgreen .member-block-wrapper:hover .member-block-footer a:hover,
+.lightgreen .skills-block:hover em,
+.lightgreen a.active,
+.lightgreen a:hover{
+	color: #44b37e;
+}
+.lightgreen footer.footer a.arrow-up:hover,
+.lightgreen .next-services-block:hover,
+.lightgreen .prev-services-block:hover,
+.lightgreen .home .flex-prev:hover,
+.lightgreen .home .flex-next:hover,
+.lightgreen.white .button.black:hover,
+.lightgreen .button.black:hover,
+.lightgreen input[type="submit"],
+.lightgreen .button{
+	border-color: #44b37e;
+}
+.lightgreen .member-block-wrapper:hover{
+	border-top-color: #44b37e;
+}
+.lightgreen .skills-block:hover .skills-wrapper,
+.lightgreen textarea:focus,
+.lightgreen input[type="text"]:focus{
+	border-bottom-color: #44b37e;	
+}
+.lightgreen .flex-control-paging li a.flex-active {
+    box-shadow: 0 0 0 9px #44b37e inset;
+}
+
+.lightgreen .services-block.active .services-block-wrapper:before,
+.lightgreen .services-block:hover .services-block-wrapper:before{
+	box-shadow: 0 0 0 3px #44b37e inset;
+}
+.lightgreen .price-block:hover{
+	box-shadow: 0 0 0 2px #44b37e inset;
+}
+.lightgreen .portfolio-navi a:hover,
+.lightgreen .next-services-block:hover,
+.lightgreen .prev-services-block:hover,
+.lightgreen .button:hover{
+	color: #fff;
+}
