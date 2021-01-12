@@ -432,8 +432,8 @@ input[type="submit"]:hover,
 .skills-block:hover .skills-name {
   color: #fff;
 }
-.skills-block:hover em {
-  color: #a91632;
+.skills-block:hover .fa {
+  color: #7c3bbd;
   top: -10px;
 }
 .skills-block .skills-name {
@@ -448,7 +448,7 @@ input[type="submit"]:hover,
   -ms-transition: all 0.3s linear;
   transition: all 0.3s linear;
 }
-.skills-block em {
+.skills-block .fa {
   font-size: 38px;
   color: #999;
   margin-bottom: 10px;
@@ -461,6 +461,7 @@ input[type="submit"]:hover,
   -ms-transition: all 0.3s linear;
   transition: all 0.3s linear;
 }
+
 /*------  //SKILLS BLOCK  ------*/
 
 /*------  ABOUT BLOCK  ------*/
@@ -644,11 +645,11 @@ input[type="submit"]:hover,
 .animate .services-block {
   opacity: 0;
 }
-.services-block.active .glyph,
-.services-block:hover .glyph {
-  color: #a91632;
+.services-block.active .fa,
+.services-block:hover .fa {
+  color: #7c3bbd;
 }
-.services-block:hover .glyph {
+.services-block:hover .fa {
   top: -10px;
 }
 .services-block.active a,
@@ -665,8 +666,8 @@ input[type="submit"]:hover,
   bottom: 6px;
   background: #a91632;
 }
-.services-block .glyph {
-  font-size: 46px;
+.services-block .fa {
+  font-size: 20px;
   color: #999;
   display: block;
   margin-bottom: 12px;
@@ -1742,8 +1743,8 @@ footer.footer a.arrow-up:hover {
   .services-block-wrapper {
     padding: 0 0 35px;
   }
-  .services-block .glyph {
-    font-size: 40px;
+  .services-block .fa {
+    font-size: 10px;
   }
   .idea span {
     margin-right: 0;
